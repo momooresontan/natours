@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "sources": [
+    "index.js"
+  ],
+  "names": [
+    "console",
+    "log"
+  ],
+  "mappings": "AAAAA,OAAO,CAACC,GAAG,CAAC,mBAAmB,CAAC",
+  "file": "bundle.js",
+  "sourceRoot": "..\\public\\js",
+  "sourcesContent": [
+    "console.log('Hello from Parcel');\r\n"
+  ]
+}
